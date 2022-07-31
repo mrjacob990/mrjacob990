@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @mrjacob990
+- 🌱 I’m currently learning Front-End basics.
